@@ -1,16 +1,16 @@
 <h1 align="center">Hi, I'm Haider 👋</h1>
 <p align="center">
-  A passionate Computer Science student exploring the world of code, AI, and front-end innovation.
+  A passionate Computer Science student exploring the world of code, AI, and FULLSTACK Innovation.
 </p>
 
 ---
 
 ### 👨‍🎓 About Me
 
-- 🎓 I'm a **2nd-year CS undergraduate** at **UMT, Lahore**
-- 🔭 Currently diving into **front-end development**
+- 🎓 I'm a **Final-year CS undergraduate** at **UMT, Lahore**
+- 🔭 Currently diving into **Fullstack development**
 - 💡 Passionate about **AI** and **Web Development**
-- 🌱 Actively learning **HTML, CSS, JavaScript, and modern frontend practices**
+- 🌱 Actively learning **HTML, CSS, JavaScript,MERN and modern frontend practices**
 - 📫 Reach me at: **haideralithakur747@gmail.com** | [LinkedIn](https://www.linkedin.com/in/haider-ali-0a6948305/)
 
 ---
@@ -47,7 +47,7 @@ Check out my top projects:
 
 ### 🙋‍♂ Fun Facts
 
-- 🏸 I enjoy playing **badminton**
+- 🏸 I enjoy playing **badminton,table tennis**
 - 🧠 I love exploring **challenging tech problems** and creative interfaces
 - 🤝 I'm open to collaborating on **web-based projects and beginner AI experiments**
 
